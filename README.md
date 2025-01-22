@@ -25,3 +25,9 @@ Below is a list of projects in this repository:
    ```bash
    git clone https://github.com/lblaseygg/Python-projects.git
    ```
+2. Navigate to the project directory.
+3.Run the Python script you want to execute. For example:
+
+   ```bash
+   python calculator.py
+   ```
